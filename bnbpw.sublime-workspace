@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prec",
+				"precadastro"
+			],
+			[
+				"Mo",
+				"ModelSelect2"
+			],
+			[
+				"Tal",
+				"Talento"
+			],
+			[
+				"C",
+				"CadastroAUX"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"col",
+				"col-md-8"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"Te",
+				"TextCharField"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"T",
+				"talentos"
+			],
+			[
+				"Re",
+				"Regiao"
+			],
+			[
+				"v",
+				"verbose_name"
+			],
+			[
+				"Talent",
+				"TalentoClasse"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"Da",
+				"DateTimeField"
+			],
+			[
+				"nome",
+				"Nome"
+			],
+			[
+				"fo",
+				"ForeignKey"
+			],
+			[
+				"lanca",
+				"Lancamento"
+			],
+			[
+				"Lancamento",
+				"LancamentoForm"
+			],
+			[
+				"Lanca",
+				"LancamentoForm"
+			],
+			[
+				"max_",
+				"max_length"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Tr",
+				"Transferencia"
+			],
+			[
+				"tra",
+				"Transferencia"
+			],
+			[
+				"ca",
+				"Cadastro"
+			],
+			[
+				"d",
+				"Debito"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"dec",
+				"decimal_places"
+			],
+			[
+				"deci",
+				"DecimalField"
+			],
+			[
+				"de",
+				"descricao"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bn_app/templates/bn_app/index.html",
+			"settings":
+			{
+				"buffer_size": 6467,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bn_app/models.py",
+			"settings":
+			{
+				"buffer_size": 621,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bn_app/urls.py",
+			"settings":
+			{
+				"buffer_size": 869,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bn_app/views.py",
+			"settings":
+			{
+				"buffer_size": 641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bn_app/templates/bn_app/rede.html",
+			"settings":
+			{
+				"buffer_size": 8331,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/luadm/sites_p/bpw/bnbpw/bn_app",
+		"/home/luadm/sites_p/bpw/bnbpw/bn_app/templates",
+		"/home/luadm/sites_p/bpw/bnbpw/bn_app/templates/bn_app"
+	],
+	"file_history":
+	[
+		"/home/luadm/Documentos/Broadfactor/website/contato.html",
+		"/home/luadm/Documentos/Broadfactor/website/index.html",
+		"/home/luadm/djangogirls/mysite/settings.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/indexbpw.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_definir.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_ajudar.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/post.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_porque.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/precadastro.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_trocamos.html",
+		"/home/luadm/djangogirls/btf_saldo/views.py",
+		"/home/luadm/djangogirls/btf_saldo/urls.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_florescer.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_saiba.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_funciona.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/base.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/base_index.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_grupo.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/index_eventos.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/talento_crud.html",
+		"/home/luadm/djangogirls/btf_env/lib/python3.4/site-packages/pip/_internal/__init__.py",
+		"/home/luadm/djangogirls/btf_env/lib/python3.4/site-packages/django/core/management/__init__.py",
+		"/home/luadm/djangogirls/myvenv/lib/python3.5/site-packages/pipenv/patched/notpip/__init__.py",
+		"/home/luadm/djangogirls/myvenv/lib/python3.5/site-packages/pipenv/vendor/pip9/__init__.py",
+		"/home/luadm/djangogirls/btf_saldo/models.py",
+		"/home/luadm/djangogirls/btf_saldo/forms.py",
+		"/home/luadm/djangogirls/btf_saldo/admin.py",
+		"/home/luadm/djangogirls/btf_saldo/forms_ant.py",
+		"/home/luadm/djangogirls/mysite/urls.py",
+		"/home/luadm/djangogirls/btf_saldo/dados",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/talento_list.html",
+		"/home/luadm/djangogirls/btf_saldo/static/js/rango-jquery.js",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/inicio.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/talento_detail.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/dica1.html",
+		"/home/luadm/djangogirls/btf_saldo/models_rep.py",
+		"/home/luadm/djangogirls/btf_saldo/autocomplete_light_registry.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/talento_edit.html",
+		"/home/luadm/cadastro.txt.csv",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/base_ant.html",
+		"/home/luadm/djangogirls/myvenv/bin/virtualenv",
+		"/home/luadm/djangogirls/btf_saldo/static/css/btf_saldo.css",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/home.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/cadastro_detail.html",
+		"/home/luadm/djangogirls/btf_saldo/models_ant.py",
+		"/home/luadm/djangogirls/pipfile",
+		"/home/luadm/djangogirls/requirements.txt",
+		"/home/luadm/djangogirls/btf_saldo/static/js/bootstrap.js",
+		"/home/luadm/djangogirls/myvenv/pyvenv.cfg",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/lancamento_edit.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/geral.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/cadastro_list.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/movimentacao.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/cadastro_edit.html",
+		"/home/luadm/djangogirls/testes/importa.py",
+		"/home/luadm/djangogirls/testes/teste.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/lancamento_detail.html",
+		"/home/luadm/djangogirls/btf_saldo/views-ant.py",
+		"/home/luadm/djangogirls/btf_saldo/cadastro.sql",
+		"/home/luadm/djangogirls/btf_saldo/cadastro2.sql",
+		"/home/luadm/djangogirls/myvenv/lib/python3.5/site-packages/django/db/models/fields/related.py",
+		"/home/luadm/djangogirls/btf_saldo/models-ant.py",
+		"/home/luadm/djangogirls/blog/forms.py",
+		"/home/luadm/djangogirls/myvenv/lib/python3.5/site-packages/django/contrib/admin/models.py",
+		"/home/luadm/djangogirls/myvenv/lib/python3.5/site-packages/django/forms/models.py",
+		"/home/luadm/djangogirls/blog/templates/blog/base.html",
+		"/home/luadm/djangogirls/mysite/wsgi.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/saldo_list.html",
+		"/home/luadm/djangogirls/polls/models.py",
+		"/home/luadm/djangogirls/polls/admin.py",
+		"/home/luadm/djangogirls/myvenv/lib64/python3.5/site-packages/django/forms/formsets.py",
+		"/home/luadm/djangogirls/myvenv/lib64/python3.5/site-packages/django/forms/models.py",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/saldo_filtro.html",
+		"/home/luadm/djangogirls/myvenv/lib64/python3.5/site-packages/django/contrib/auth/models.py",
+		"/home/luadm/djangogirls/blog/urls.py",
+		"/home/luadm/djangogirls/blog/templates/blog/post_detail.html",
+		"/home/luadm/djangogirls/btf_saldo/templates/btf_saldo/saldo_data.html",
+		"/home/luadm/djangogirls/blog/static/css/blog.css",
+		"/home/luadm/djangogirls/myvenv/lib64/python3.5/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js",
+		"/home/luadm/djangogirls/blog/templates/blog/post_edit.html",
+		"/home/luadm/djangogirls/blog/views.py",
+		"/home/luadm/djangogirls/blog/templates/blog/post_list.html",
+		"/home/luadm/djangogirls/manage.py",
+		"/home/luadm/djangogirls/blog/models.py",
+		"/home/luadm/djangogirls/blog/admin.py",
+		"/home/luadm/djangogirls/.gitignore"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"quem",
+			"image",
+			"imagem",
+			"jpg",
+			"jpeg",
+			"contato",
+			"fase1",
+			"preca",
+			"cadastro",
+			"assoc_crud",
+			"select2",
+			"</td></tr>",
+			"<tr><td>",
+			"</p>",
+			"<p>",
+			"\"\"\"",
+			"verbose",
+			"class ModelChoiceField",
+			"saldo",
+			"btf_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</small></td></tr>",
+			"<tr><td><small>",
+			"</td></tr>",
+			"<tr><td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bn_app/templates/bn_app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2086,
+								2086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bn_app/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bn_app/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bn_app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bn_app/templates/bn_app/rede.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bnbpw.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

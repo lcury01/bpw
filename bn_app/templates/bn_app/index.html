@@ -1,0 +1,100 @@
+{% extends 'bn_app/basehome.html' %}
+
+<!-- staticfiles -->
+{% load staticfiles %}
+
+<!-- aqui static -->
+{% load static %}
+<!-- aqui bootstrap4 -->
+{% load bootstrap4 %}
+
+<!-- block content -->
+{%  block content %}
+
+
+
+    <header class="masthead text-center text-white">
+      <div class="masthead-content">
+        <div class="container">
+          <h1 class="masthead-heading mb-0">Banco Nacional</h1>
+          <h2 class="masthead-subheading mb-0">Mulheres Empreendedoras </h2>
+          <a href="{% url 'cadrede' %}" class="btn btn-primary btn-xl rounded-pill mt-5">Faça parte desta rede</a>
+          
+        </div>
+      </div>
+      <div class="bg-circle-1 bg-circle"></div>
+      <div class="bg-circle-2 bg-circle"></div>
+      <div class="bg-circle-3 bg-circle"></div>
+      <div class="bg-circle-4 bg-circle"></div>
+    </header>
+
+    <section>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 order-lg-2">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="{% static 'img/01.jpg' %}" alt="">
+            </div>
+          </div>
+          <div class="col-lg-6 order-lg-1">
+            <div id="quem-somos" class="p-5">
+              <h2 class="display-4">Quem somos</h2>
+              <p>A Task Force BusinessNet é uma ação global da BPW que visa reunir, em cada país,  associadas empreendedoras em um Banco de Soluções para fornecimento e prestação de serviços.<a href="#">Saiba Mais sobre a BPW</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="{% static 'img/02.jpg' %}" alt="">
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div id="proposito" class="p-5">
+              <h2 class="display-4">Propósito</h2>
+              <p>A BusinessNet vem para oferecer facilidade para as Corporações que investem na política de Diversidade e Inclusão de Minorias. Ela reúne, em uma rede nacional, já classificada por segmento de negócios, empresas majoritariamente sob a gestão feminina. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+     <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 order-lg-2">
+            <div class="p-5">
+              <img class="img-fluid rounded-circle" src="{% static 'img/03.jpg' %}" alt="">
+            </div>
+          </div>
+          <div class="col-lg-6 order-lg-1">
+            <div id="participar" class="p-5">
+              <h2 class="display-4">Como participar</h2>
+              <p>– Ser Associada da BPW – Empresarial ou Profissional Liberal</p>
+              <ul> 
+              <li>Para Profissionais Liberais (SEM CNPJ):</li>
+                <ul>
+                    <li> Estar em dia com as suas obrigações com a BPW da sua região;</li>
+                    <li> Preencher formulário no link Faça parte dessa rede.</li>
+                </ul>
+                <li>Para Empresárias (COM CNPJ):</li>
+                  <ul>
+                  <li>Apresentar a última alteração contratual da Empresa;</li>
+                  <li>Ser sócia majoritária na Empresa ou 100% proprietária do seu negócio;</li>
+                  <li>Estar em dia com as suas obrigações com a BPW da sua região;</li>
+                  <li>Preencher formulário abaixo no link Faça parte dessa rede.</li>
+                  <a class="nav-link" href="{% url 'cadrede' %}">Cadastre-se</a>
+                  </ul>
+                </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+{%  endblock %}
